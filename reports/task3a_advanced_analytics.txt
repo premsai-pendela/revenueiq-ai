@@ -1,0 +1,50 @@
+======================================================================
+REVENUEIQ AI - ADVANCED ANALYTICS REPORT
+TASK 3A: Customer Segmentation & Product Insights
+Generated: 2026-03-02 15:37:57
+======================================================================
+
+📊 RFM ANALYSIS
+----------------------------------------------------------------------
+Customers Analyzed:         4,338
+Champions:                  933 ($6,241,008.77)
+At Risk:                    763
+Lost Customers:             544
+Avg Recency:                93 days
+Avg Purchase Frequency:     4.3 orders
+Avg Customer Value:         $2,048.56
+
+💰 CUSTOMER LIFETIME VALUE
+----------------------------------------------------------------------
+Average CLV:                $1,884.02
+Median CLV:                 $584.29
+Highest CLV:                $280,206.02
+Avg Order Value:            $417.64
+Avg Purchase Frequency:     inf per month
+Total Customer Value:       $8,172,898.80
+
+📅 COHORT RETENTION ANALYSIS
+----------------------------------------------------------------------
+Total Cohorts:              13
+Avg Month 1 Retention:      20.6%
+Avg Month 3 Retention:      23.2%
+Largest Cohort:             2010-12 (885.0 customers)
+
+🛒 PRODUCT AFFINITY ANALYSIS
+----------------------------------------------------------------------
+Unique Product Pairs:       1,162
+Most Common Pair:           Bought together 825 times
+Avg Basket Size:            1.0 items
+
+======================================================================
+STRATEGIC RECOMMENDATIONS
+----------------------------------------------------------------------
+1. Re-engage 'At Risk' customers with personalized offers
+2. Create VIP program for 'Champions' segment
+3. Focus retention efforts on high-CLV customers
+4. Bundle frequently co-purchased products
+5. Target month 1-3 with retention campaigns
+
+======================================================================
+ADVANCED ANALYSIS COMPLETE ✅
+======================================================================
