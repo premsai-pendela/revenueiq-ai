@@ -10,6 +10,7 @@
 ## 🎯 What This Project Does
 
 Transforms raw retail data into actionable business insights:
+
 - ✅ Automated data cleaning (98.56% retention)
 - ✅ Customer segmentation (RFM, CLV, Cohort)
 - ✅ Interactive web dashboard
@@ -48,7 +49,7 @@ Transforms raw retail data into actionable business insights:
 
 ## 🚀 Quick Start
 
-bash
+```bash
 # Install
 pip install pandas numpy matplotlib seaborn plotly dash openpyxl
 
@@ -60,25 +61,44 @@ python scripts/task3a_advanced_analytics.py
 # Launch dashboard
 python scripts/launch_dashboard.py
 # Open: http://127.0.0.1:8050
+```
 
-📈 Project Progress
-Phase	Status
-Data Cleaning	✅ Done
-Exploratory Analysis	✅ Done
-Advanced Analytics (RFM, CLV)	✅ Done
-Interactive Dashboard	✅ Done
-Predictive Modeling	🔜 Next
-🎨 Dashboard Features
-📅 Date range filter
-🌍 Country selector (38 markets)
-🛍️ Product filter
-👥 Customer type toggle
-📊 Daily/Weekly/Monthly views
-7 interactive charts
-👤 Author
-Naga Prem Sai Pendela - @premsai-pendela
+---
 
-📄 License
-Educational & Portfolio Use | Dataset: UCI ML Repository
+## 📈 Project Progress
+
+| Phase | Status |
+|-------|--------|
+| Data Cleaning | ✅ Done |
+| Exploratory Analysis | ✅ Done |
+| Advanced Analytics (RFM, CLV) | ✅ Done |
+| Interactive Dashboard | ✅ Done |
+| Predictive Modeling | 🔜 Next |
+
+---
+
+## 🎨 Dashboard Features
+
+- 📅 Date range filter  
+- 🌍 Country selector (38 markets)  
+- 🛍️ Product filter  
+- 👥 Customer type toggle  
+- 📊 Daily/Weekly/Monthly views  
+- 7 interactive charts  
+
+---
+
+## 👤 Author
+
+Naga Prem Sai Pendela — @premsai-pendela
+
+---
+
+## 📄 License
+
+Educational & Portfolio Use  
+Dataset: UCI ML Repository
+
+---
 
 <p align="center">⭐ Star this repo if you found it helpful!</p>
