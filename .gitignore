@@ -1,41 +1,108 @@
+# ============================================
+# RevenueIQ Portfolio Project - .gitignore
+# ============================================
+
+# ===============================
+# Environment & Secrets (CRITICAL)
+# ===============================
+.env
+.env.local
+.envrc
+*.key
+*.secret
+
+# ===============================
 # Python
+# ===============================
 __pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ===============================
+# Virtual Environments
+# ===============================
 venv/
 env/
 ENV/
+.venv/
 
+# ===============================
 # Jupyter
+# ===============================
 .ipynb_checkpoints/
 *.ipynb
 
-# Data files
-data/raw/*.xlsx
-data/raw/*.csv
-data/processed/*.parquet
-*.db
-*.duckdb
-
-# IDE
+# ===============================
+# IDE / Editor Files
+# ===============================
 .vscode/
 .idea/
 *.swp
 *.swo
-.DS_Store
+*~
 
-# Reports (optional - remove if you want to commit)
-outputs/reports/*.txt
-outputs/visualizations/*.png
-outputs/visualizations/*.html
-
-# Environment
-.env
-.envrc
-
+# ===============================
 # macOS
+# ===============================
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# ===============================
+# Windows
+# ===============================
+Thumbs.db
+desktop.ini
+
+# ============================================
+# DATA FILES (large raw datasets)
+# ============================================
+
+data/raw/*.xlsx
+data/raw/*.xls
+data/raw/*.csv
+
+# Large processed files (avoid pushing huge files)
+data/processed/transactions_cleaned.csv
+data/processed/transactions_sales_only.csv
+
+# Allowed processed files (small analytics outputs)
+# data/processed/customer_clusters.csv
+# data/processed/rfm_analysis.csv
+# data/processed/customer_clv.csv
+# data/processed/demand_forecast.csv
+# data/processed/at_risk_customers.csv
+
+# ============================================
+# DATABASE FILES
+# ============================================
+
+# Uncomment if database becomes large
+# *.db
+# *.duckdb
+*.sqlite3
+
+# ============================================
+# OUTPUTS
+# ============================================
+
+# Keep visualization outputs for README
+# outputs/visualizations/*.png
+# outputs/visualizations/*.html
+# outputs/reports/*.txt
+
+# ============================================
+# TEMP FILES
+# ============================================
+
+*.tmp
+*.log
+.cache/
+temp/

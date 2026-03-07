@@ -1,0 +1,48 @@
+======================================================================
+REVENUEIQ AI - DAY 1 EXPLORATION SUMMARY
+======================================================================
+
+Generated: March 01, 2026 18:41:43
+Platform: MacBook M4 Air
+
+DATASET OVERVIEW:
+  Shape: 541,909 rows × 8 columns
+  Memory: 126.18 MB
+  Date Range: 2010-12-01 08:26:00 to 2011-12-09 12:50:00
+
+COLUMNS:
+     Column      Data_Type  Non_Null  Null_Count  Null_%
+  InvoiceNo         object    541909           0    0.00
+  StockCode         object    541909           0    0.00
+Description         object    540455        1454    0.27
+   Quantity          int64    541909           0    0.00
+InvoiceDate datetime64[us]    541909           0    0.00
+  UnitPrice        float64    541909           0    0.00
+ CustomerID        float64    406829      135080   24.93
+    Country            str    541909           0    0.00
+
+MISSING VALUES:
+     Column  Missing_Count  Missing_%  Present_Count
+ CustomerID         135080      24.93         406829
+Description           1454       0.27         540455
+  InvoiceNo              0       0.00         541909
+  StockCode              0       0.00         541909
+   Quantity              0       0.00         541909
+InvoiceDate              0       0.00         541909
+  UnitPrice              0       0.00         541909
+    Country              0       0.00         541909
+
+DATA QUALITY ISSUES:
+              Issue  Count Percentage Severity
+ Missing CustomerID 135080     24.93%     HIGH
+  Negative Quantity  10624      1.96%   MEDIUM
+Zero/Negative Price   2517      0.46%     HIGH
+Missing Description   1454      0.27%      LOW
+     Duplicate Rows   5268      0.97%   MEDIUM
+
+KEY FINDINGS:
+  • Total Transactions: 541,909
+  • Unique Customers: 4,372
+  • Unique Products: 4,070
+  • Countries: 38
+  • Cancellations: 9,288 (1.71%)
