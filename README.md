@@ -8,6 +8,16 @@ Python | SQL | Machine Learning | Business Intelligence | LLM Integration
 [![SQL](https://img.shields.io/badge/SQL-DuckDB-yellow.svg)](https://duckdb.org/)
 [![AI](https://img.shields.io/badge/AI-Groq%20LLM-red.svg)](https://groq.com/)
 [![ML](https://img.shields.io/badge/ML-Scikit--learn-orange.svg)](https://scikit-learn.org/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success.svg)](https://revenueiq-ai.onrender.com)
+
+---
+
+## 🌐 Live Dashboard
+
+👉 **Try the interactive analytics dashboard:**  
+https://revenueiq-ai.onrender.com
+
+⚡ *First load may take ~30–60 seconds (Render free tier may wake from sleep)*
 
 ---
 
