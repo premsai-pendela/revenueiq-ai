@@ -21,14 +21,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
 
-# Page config
-st.set_page_config(
-    page_title="RevenueIQ AI - Analytics Dashboard",
-    page_icon="📊",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
-
 
 # PERFORMANCE OPTIMIZATION
 
