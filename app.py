@@ -2,7 +2,19 @@
 RevenueIQ AI - Streamlit Dashboard
 Portfolio Analytics Platform - 2026
 """
+import os
+import sys
 
+# Performance optimization for Render
+if os.getenv('RENDER'):
+    # Preload critical libraries only
+    import streamlit as st
+    st.set_page_config(
+        page_title="RevenueIQ AI",
+        page_icon="📊",
+        layout="wide",
+        initial_sidebar_state="expanded"
+    )
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -16,6 +28,22 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
+
+# PERFORMANCE OPTIMIZATION
+
+# Initialize session state for faster subsequent loads
+if 'app_loaded' not in st.session_state:
+    st.session_state.app_loaded = False
+
+# Show loading indicator only on first load
+if not st.session_state.app_loaded:
+    loading_placeholder = st.empty()
+    with loading_placeholder:
+        st.info("⚡ Loading analytics dashboard... (first load takes 30-60s on free tier)")
+    st.session_state.app_loaded = True
+else:
+    loading_placeholder = None
 
 # Custom CSS - Works in both light and dark mode
 st.markdown("""
@@ -127,23 +155,18 @@ def format_number(num):
     else:
         return f"{num:,.0f}"
 
-# Title
-st.title("📊 RevenueIQ AI - Business Intelligence Dashboard")
-st.markdown("<p class='subtitle'><strong>Analyzed 534K transactions | $10.6M revenue | 5 ML Models Deployed</strong></p>", 
-            unsafe_allow_html=True)
-st.markdown("---")
+
 
 # Load data
-@st.cache_data
+@st.cache_data(ttl=3600)  # Cache for 1 hour
 def load_data():
-    """Load processed data"""
+    """Load processed data with caching"""
     try:
         # Try customer clusters
         clusters = pd.read_csv('data/processed/customer_clusters.csv')
         return clusters
     except:
         # Fallback: create sample data for demo
-        st.info("ℹ️ Using sample data for demonstration purposes")
         return pd.DataFrame({
             'CustomerID': range(4320),
             'Cluster': [0, 1, 2, 3, 4] * 864,
@@ -154,9 +177,19 @@ def load_data():
             'Recency': [53, 31, 6, 252, 300] * 864
         })
 
-# Load data
-df = load_data()
+# Load data with spinner
+with st.spinner('📊 Loading analytics data...'):
+    df = load_data()
 
+# Clear loading message after data is loaded
+if loading_placeholder:
+    loading_placeholder.empty()
+
+# Title
+st.title("📊 RevenueIQ AI - Business Intelligence Dashboard")
+st.markdown("<p class='subtitle'><strong>Analyzed 534K transactions | $10.6M revenue | 5 ML Models Deployed</strong></p>", 
+            unsafe_allow_html=True)
+st.markdown("---")
 # Sidebar
 with st.sidebar:
     st.header("🎯 Project Highlights")
