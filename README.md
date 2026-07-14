@@ -8,8 +8,9 @@ Python · DuckDB · scikit-learn · XGBoost · SHAP · statsforecast · Groq LLM
 [![DuckDB](https://img.shields.io/badge/SQL-DuckDB-yellow.svg)](https://duckdb.org/)
 [![ML](https://img.shields.io/badge/ML-XGBoost%20%7C%20SHAP-orange.svg)](https://scikit-learn.org/)
 [![LLM](https://img.shields.io/badge/LLM-Groq%20%2B%20grounding%20guard-0fa3a3.svg)](https://groq.com/)
+[![Live Demo](https://img.shields.io/badge/demo-live-0fa3a3.svg)](https://revenueiq-ai.vercel.app)
 
-**Live demo:** _deploying to Vercel — link added on first deploy._
+**Live demo → https://revenueiq-ai.vercel.app**
 
 ---
 
@@ -28,8 +29,13 @@ A reproducible pipeline over the public **UCI Online Retail** dataset (534,117 t
 
 Interactive Next.js dashboard (two-tone theme, Recharts): headline finding → key findings → segments (bar / donut / value-vs-recency scatter) → churn (metrics + SHAP drivers) → forecast with confidence band → the grounded AI report with a live "figures verified" badge.
 
-<!-- SCREENSHOTS: added after first Vercel deploy (live …vercel.app captures) -->
-_Screenshots of the deployed site are added after the first Vercel deploy._
+[![RevenueIQ dashboard — overview](docs/screenshots/dashboard-hero.png)](https://revenueiq-ai.vercel.app)
+
+_Overview: headline finding, KPIs, and the key-findings cards._
+
+![RevenueIQ dashboard — full page](docs/screenshots/dashboard-full.png)
+
+_Full dashboard: segments (bar / donut / value-vs-recency scatter), churn with SHAP drivers, forecast with confidence band, and the grounding-verified AI report._
 
 ---
 
