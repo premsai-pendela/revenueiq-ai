@@ -1,0 +1,110 @@
+{
+  "model": "customer_segmentation_kmeans",
+  "n_customers": 4320,
+  "features": [
+    "MonetaryValue",
+    "Frequency",
+    "TotalQuantity",
+    "AvgOrderValue",
+    "Recency",
+    "CustomerLifespan"
+  ],
+  "log_transformed_features": [
+    "MonetaryValue",
+    "Frequency",
+    "TotalQuantity",
+    "AvgOrderValue"
+  ],
+  "chosen_k": 5,
+  "k_selection": {
+    "global_silhouette_peak_k": 2,
+    "global_silhouette_peak_note": "degenerate active-vs-dormant binary split; excluded from selection",
+    "min_business_k": 3,
+    "elbow_k": 5,
+    "best_silhouette_business_k": 3,
+    "chosen_k": 5,
+    "reason": "Global silhouette peaks at k=2 (0.3586), but that is a DEGENERATE active-vs-dormant binary split, not a segmentation, so we exclude k<3. Among business-meaningful k the inertia elbow is k=5, and k=5 is ALSO a local silhouette maximum (0.2649 > k=4:0.2511 and > k=6:0.2379). Both signals endorse k=5, and it isolates the thin high-value tier the business needs \u2014 so k=5 is the honest choice.",
+    "silhouette_by_k": {
+      "2": 0.3586,
+      "3": 0.2854,
+      "4": 0.2511,
+      "5": 0.2649,
+      "6": 0.2379,
+      "7": 0.2371,
+      "8": 0.2282,
+      "9": 0.2169,
+      "10": 0.2043
+    }
+  },
+  "silhouette": 0.2649,
+  "stability_pct": 100.0,
+  "gmm_crosscheck": {
+    "kmeans_silhouette": 0.2649,
+    "gmm_silhouette": 0.0823,
+    "kmeans_gmm_agreement_pct": 50.6,
+    "cleaner": "KMeans"
+  },
+  "kmeans_vs_rfm_note": "RFM-quantile 'Champions' (R5-F5-M5) = 336 customers holding $3,774,233 (45.3% of revenue). KMeans VIP cluster = 700 customers holding $5,537,125 (66.5%). RFM forces a rigid 1/125 grid and treats each axis independently, so it can miss customers who are extreme on money but merely good on frequency. KMeans learns the joint geometry (post-log) and isolates the thin ultra-VIP tier that actually carries a disproportionate revenue share \u2014 the segment a business most needs to protect.",
+  "segments": [
+    {
+      "cluster_id": 4,
+      "name": "VIP Champions",
+      "count": 700,
+      "customer_pct": 16.2,
+      "revenue": 5537125.24,
+      "revenue_pct": 66.5,
+      "avg_recency": 18.2,
+      "avg_frequency": 17.06,
+      "avg_monetary": 7910.18,
+      "avg_order_value": 36.79
+    },
+    {
+      "cluster_id": 0,
+      "name": "Loyal Regulars",
+      "count": 1391,
+      "customer_pct": 32.2,
+      "revenue": 1710339.88,
+      "revenue_pct": 20.5,
+      "avg_recency": 47.9,
+      "avg_frequency": 4.63,
+      "avg_monetary": 1229.58,
+      "avg_order_value": 16.88
+    },
+    {
+      "cluster_id": 2,
+      "name": "High-Value Growers",
+      "count": 272,
+      "customer_pct": 6.3,
+      "revenue": 420516.67,
+      "revenue_pct": 5.0,
+      "avg_recency": 111.9,
+      "avg_frequency": 2.43,
+      "avg_monetary": 1546.02,
+      "avg_order_value": 227.75
+    },
+    {
+      "cluster_id": 3,
+      "name": "Occasional Buyers",
+      "count": 1145,
+      "customer_pct": 26.5,
+      "revenue": 414061.22,
+      "revenue_pct": 5.0,
+      "avg_recency": 56.1,
+      "avg_frequency": 1.63,
+      "avg_monetary": 361.63,
+      "avg_order_value": 15.53
+    },
+    {
+      "cluster_id": 1,
+      "name": "At-Risk / Dormant",
+      "count": 812,
+      "customer_pct": 18.8,
+      "revenue": 248123.7,
+      "revenue_pct": 3.0,
+      "avg_recency": 261.1,
+      "avg_frequency": 1.48,
+      "avg_monetary": 305.57,
+      "avg_order_value": 19.87
+    }
+  ]
+}

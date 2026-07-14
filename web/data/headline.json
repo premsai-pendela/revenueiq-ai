@@ -1,0 +1,9 @@
+{
+  "total_revenue": 9865267.97,
+  "total_customers": 4372,
+  "total_orders": 23786,
+  "total_lines": 534117,
+  "avg_order_line": 18.47,
+  "high_risk_count": 707,
+  "high_risk_revenue": 320071.6
+}

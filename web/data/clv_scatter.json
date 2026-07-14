@@ -1,0 +1,5402 @@
+[
+  {
+    "recency": 238,
+    "monetary": 1345.62,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 189,
+    "monetary": 455.25,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 277,
+    "monetary": 328.8,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 189,
+    "monetary": 119.93,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 352,
+    "monetary": 1141.24,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 217,
+    "monetary": 600.52,
+    "frequency": 6,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 250,
+    "monetary": 127.84,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 368,
+    "monetary": 606.05,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 208,
+    "monetary": 112.8,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 160,
+    "monetary": 86.12,
+    "frequency": 3,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 261,
+    "monetary": 215.05,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 265,
+    "monetary": 141.41,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 232,
+    "monetary": 267.03,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 300,
+    "monetary": 342.92,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 234,
+    "monetary": 280.55,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 253,
+    "monetary": 383.34,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 200,
+    "monetary": 236.04,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 273,
+    "monetary": 109.8,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 224,
+    "monetary": 331.18,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 317,
+    "monetary": 773.55,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 256,
+    "monetary": 609.4,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 282,
+    "monetary": 312.38,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 245,
+    "monetary": 102.12,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 172,
+    "monetary": 170.04,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 334,
+    "monetary": 114.0,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 226,
+    "monetary": 160.54,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 234,
+    "monetary": 98.8,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 252,
+    "monetary": 85.0,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 325,
+    "monetary": 201.16,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 204,
+    "monetary": 216.5,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 273,
+    "monetary": 262.62,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 164,
+    "monetary": 163.3,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 300,
+    "monetary": 306.6,
+    "frequency": 3,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 187,
+    "monetary": 263.33,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 205,
+    "monetary": 157.9,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 197,
+    "monetary": 207.8,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 246,
+    "monetary": 206.21,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 148,
+    "monetary": 98.45,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 280,
+    "monetary": 166.04,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 199,
+    "monetary": 339.6,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 321,
+    "monetary": 253.05,
+    "frequency": 3,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 239,
+    "monetary": 185.05,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 253,
+    "monetary": 316.25,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 172,
+    "monetary": 303.93,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 188,
+    "monetary": 319.02,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 357,
+    "monetary": 540.45,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 234,
+    "monetary": 259.39,
+    "frequency": 4,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 308,
+    "monetary": 153.94,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 169,
+    "monetary": 142.5,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 359,
+    "monetary": 319.1,
+    "frequency": 5,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 179,
+    "monetary": 321.43,
+    "frequency": 3,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 245,
+    "monetary": 388.33,
+    "frequency": 3,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 196,
+    "monetary": 267.16,
+    "frequency": 3,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 184,
+    "monetary": 152.4,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 185,
+    "monetary": 103.25,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 270,
+    "monetary": 302.27,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 332,
+    "monetary": 153.9,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 291,
+    "monetary": 505.82,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 247,
+    "monetary": 123.1,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 231,
+    "monetary": 225.15,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 263,
+    "monetary": 300.52,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 184,
+    "monetary": 594.9,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 272,
+    "monetary": 108.21,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 215,
+    "monetary": 312.28,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 368,
+    "monetary": 226.45,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 308,
+    "monetary": 118.0,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 217,
+    "monetary": 67.95,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 352,
+    "monetary": 110.4,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 249,
+    "monetary": 183.4,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 240,
+    "monetary": 313.8,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 360,
+    "monetary": 250.04,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 310,
+    "monetary": 31.8,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 365,
+    "monetary": 129.75,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 217,
+    "monetary": 93.75,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 238,
+    "monetary": 511.36,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 315,
+    "monetary": 218.45,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 301,
+    "monetary": 752.32,
+    "frequency": 8,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 259,
+    "monetary": 409.57,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 280,
+    "monetary": 386.15,
+    "frequency": 3,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 366,
+    "monetary": 87.5,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 244,
+    "monetary": 299.56,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 282,
+    "monetary": 434.59,
+    "frequency": 3,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 197,
+    "monetary": 62.0,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 210,
+    "monetary": 1106.4,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 213,
+    "monetary": 313.77,
+    "frequency": 4,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 238,
+    "monetary": 416.86,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 189,
+    "monetary": 232.21,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 270,
+    "monetary": 126.7,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 297,
+    "monetary": 3.75,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 275,
+    "monetary": 380.5,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 294,
+    "monetary": 100.5,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 236,
+    "monetary": 314.45,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 235,
+    "monetary": 175.27,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 254,
+    "monetary": 1028.46,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 318,
+    "monetary": 207.73,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 173,
+    "monetary": 191.94,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 253,
+    "monetary": 204.41,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 232,
+    "monetary": 511.32,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 236,
+    "monetary": 232.48,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 188,
+    "monetary": 506.8,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 287,
+    "monetary": 363.65,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 238,
+    "monetary": 1143.6,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 371,
+    "monetary": 112.27,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 237,
+    "monetary": 514.15,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 277,
+    "monetary": 136.77,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 259,
+    "monetary": 602.63,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 253,
+    "monetary": 307.53,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 364,
+    "monetary": 458.92,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 275,
+    "monetary": 298.0,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 183,
+    "monetary": 591.75,
+    "frequency": 4,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 259,
+    "monetary": 361.54,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 333,
+    "monetary": 73.5,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 203,
+    "monetary": 349.55,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 362,
+    "monetary": 269.83,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 330,
+    "monetary": 155.17,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 296,
+    "monetary": 173.05,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 155,
+    "monetary": 39.24,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 322,
+    "monetary": 225.6,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 358,
+    "monetary": 80.64,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 332,
+    "monetary": 110.95,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 361,
+    "monetary": 121.05,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 207,
+    "monetary": 63.44,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 364,
+    "monetary": 300.92,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 368,
+    "monetary": 76.32,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 216,
+    "monetary": 90.12,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 274,
+    "monetary": 333.08,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 239,
+    "monetary": 847.41,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 253,
+    "monetary": 125.65,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 325,
+    "monetary": 155.93,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 281,
+    "monetary": 131.17,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 213,
+    "monetary": 111.15,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 170,
+    "monetary": 190.53,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 133,
+    "monetary": 115.8,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 235,
+    "monetary": 932.85,
+    "frequency": 4,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 305,
+    "monetary": 108.07,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 263,
+    "monetary": 158.95,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 226,
+    "monetary": 134.16,
+    "frequency": 3,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 182,
+    "monetary": 506.19,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 261,
+    "monetary": 605.58,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 372,
+    "monetary": 351.75,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 238,
+    "monetary": 579.0,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 248,
+    "monetary": 264.65,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 248,
+    "monetary": 12.75,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 366,
+    "monetary": 230.4,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 232,
+    "monetary": 149.58,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 251,
+    "monetary": 37.4,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 314,
+    "monetary": 1628.12,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 169,
+    "monetary": 503.6,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 266,
+    "monetary": 177.15,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 231,
+    "monetary": 876.42,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 266,
+    "monetary": 152.55,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 184,
+    "monetary": 320.58,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 165,
+    "monetary": 131.45,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 231,
+    "monetary": 1079.4,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 183,
+    "monetary": 199.15,
+    "frequency": 3,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 185,
+    "monetary": 394.14,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 233,
+    "monetary": 113.5,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 158,
+    "monetary": 188.02,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 311,
+    "monetary": 178.22,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 155,
+    "monetary": 121.0,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 309,
+    "monetary": 294.66,
+    "frequency": 6,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 170,
+    "monetary": 135.75,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 300,
+    "monetary": 530.15,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 324,
+    "monetary": 76.32,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 277,
+    "monetary": 217.2,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 196,
+    "monetary": 271.85,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 246,
+    "monetary": 1038.44,
+    "frequency": 3,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 370,
+    "monetary": 230.25,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 264,
+    "monetary": 138.68,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 191,
+    "monetary": 457.34,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 262,
+    "monetary": 241.06,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 262,
+    "monetary": 517.55,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 184,
+    "monetary": 294.24,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 233,
+    "monetary": 150.3,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 322,
+    "monetary": 97.7,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 310,
+    "monetary": 113.64,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 350,
+    "monetary": 300.42,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 282,
+    "monetary": 162.3,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 263,
+    "monetary": 922.1,
+    "frequency": 1,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 276,
+    "monetary": 140.7,
+    "frequency": 2,
+    "segment": "At-Risk / Dormant"
+  },
+  {
+    "recency": 1,
+    "monetary": 1843.0,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 15,
+    "monetary": 326.4,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 89,
+    "monetary": 1070.48,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 2,
+    "monetary": 3861.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 52,
+    "monetary": 417.6,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 20,
+    "monetary": 446.94,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 40,
+    "monetary": 920.1,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 0,
+    "monetary": 360.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 8,
+    "monetary": 948.96,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 73,
+    "monetary": 512.31,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 266,
+    "monetary": 676.2,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 23,
+    "monetary": 596.1,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 77,
+    "monetary": 1259.56,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 50,
+    "monetary": 2083.42,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 30,
+    "monetary": 3166.4,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 226,
+    "monetary": 1998.0,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 7,
+    "monetary": 2686.42,
+    "frequency": 6,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 49,
+    "monetary": 913.68,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 198,
+    "monetary": 179.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 51,
+    "monetary": 924.6,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 22,
+    "monetary": 363.9,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 325,
+    "monetary": 440.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 71,
+    "monetary": 567.36,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 60,
+    "monetary": 557.62,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 105,
+    "monetary": 284.55,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 133,
+    "monetary": 1258.06,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 74,
+    "monetary": 1759.5,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 76,
+    "monetary": 680.02,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 78,
+    "monetary": 1862.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 142,
+    "monetary": 343.23,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 56,
+    "monetary": 1617.63,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 52,
+    "monetary": 917.34,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 17,
+    "monetary": 1259.7,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 128,
+    "monetary": 1740.0,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 372,
+    "monetary": 244.08,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 162,
+    "monetary": 1760.96,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 151,
+    "monetary": 633.66,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 205,
+    "monetary": 633.71,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 30,
+    "monetary": 537.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 255,
+    "monetary": 4464.1,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 44,
+    "monetary": 552.57,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 44,
+    "monetary": 401.4,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 126,
+    "monetary": 3276.4,
+    "frequency": 6,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 210,
+    "monetary": 1351.45,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 201,
+    "monetary": 962.7,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 107,
+    "monetary": 763.64,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 154,
+    "monetary": 1837.92,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 149,
+    "monetary": 287.02,
+    "frequency": 6,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 87,
+    "monetary": 356.85,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 37,
+    "monetary": 2560.0,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 113,
+    "monetary": 4873.81,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 114,
+    "monetary": 1339.45,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 126,
+    "monetary": 1737.7,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 87,
+    "monetary": 1304.04,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 106,
+    "monetary": 1314.45,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 30,
+    "monetary": 1247.5,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 60,
+    "monetary": 1743.15,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 13,
+    "monetary": 1465.2,
+    "frequency": 10,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 30,
+    "monetary": 1764.72,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 196,
+    "monetary": 3096.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 80,
+    "monetary": 4366.78,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 48,
+    "monetary": 468.4,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 3,
+    "monetary": 1158.77,
+    "frequency": 6,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 77,
+    "monetary": 1312.06,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 16,
+    "monetary": 1138.0,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 78,
+    "monetary": 561.57,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 10,
+    "monetary": 834.5,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 50,
+    "monetary": 1393.06,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 195,
+    "monetary": 207.5,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 7,
+    "monetary": 643.63,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 249,
+    "monetary": 2203.2,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 242,
+    "monetary": 406.08,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 266,
+    "monetary": 319.8,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 296,
+    "monetary": 1784.71,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 246,
+    "monetary": 175.2,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 217,
+    "monetary": 265.2,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 205,
+    "monetary": 1384.25,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 110,
+    "monetary": 1432.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 66,
+    "monetary": 432.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 39,
+    "monetary": 614.77,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 234,
+    "monetary": 21535.9,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 129,
+    "monetary": 1426.31,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 281,
+    "monetary": 207.5,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 19,
+    "monetary": 1307.81,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 115,
+    "monetary": 1706.88,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 324,
+    "monetary": 1034.5,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 133,
+    "monetary": 244.8,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 106,
+    "monetary": 335.52,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 217,
+    "monetary": 404.4,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 115,
+    "monetary": 1610.15,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 184,
+    "monetary": 771.85,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 132,
+    "monetary": 814.0,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 210,
+    "monetary": 715.5,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 110,
+    "monetary": 716.0,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 134,
+    "monetary": 657.9,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 5,
+    "monetary": 635.68,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 108,
+    "monetary": 1659.75,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 44,
+    "monetary": 1887.96,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 70,
+    "monetary": 1631.77,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 10,
+    "monetary": 336.4,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 213,
+    "monetary": 596.85,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 39,
+    "monetary": 1399.92,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 150,
+    "monetary": 652.8,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 131,
+    "monetary": 765.32,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 171,
+    "monetary": 500.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 224,
+    "monetary": 441.6,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 86,
+    "monetary": 2106.84,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 46,
+    "monetary": 3148.2,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 71,
+    "monetary": 518.28,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 127,
+    "monetary": 594.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 51,
+    "monetary": 1253.36,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 255,
+    "monetary": 1276.0,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 71,
+    "monetary": 513.2,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 50,
+    "monetary": 1035.45,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 6,
+    "monetary": 104.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 148,
+    "monetary": 1710.39,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 99,
+    "monetary": 3021.77,
+    "frequency": 12,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 97,
+    "monetary": 3770.12,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 71,
+    "monetary": 6617.65,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 2,
+    "monetary": 12393.7,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 168,
+    "monetary": 802.85,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 9,
+    "monetary": 2593.94,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 310,
+    "monetary": 1063.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 49,
+    "monetary": 463.8,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 198,
+    "monetary": 1143.27,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 63,
+    "monetary": 1009.45,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 155,
+    "monetary": 7092.06,
+    "frequency": 12,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 21,
+    "monetary": 739.2,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 129,
+    "monetary": 919.61,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 2,
+    "monetary": 1662.3,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 23,
+    "monetary": 408.8,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 258,
+    "monetary": 590.0,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 23,
+    "monetary": 974.54,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 17,
+    "monetary": 3204.16,
+    "frequency": 7,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 71,
+    "monetary": 2062.06,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 80,
+    "monetary": 358.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 73,
+    "monetary": 1117.9,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 257,
+    "monetary": 732.63,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 80,
+    "monetary": 2020.52,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 8,
+    "monetary": 1463.04,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 63,
+    "monetary": 896.0,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 248,
+    "monetary": 594.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 112,
+    "monetary": 2207.4,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 32,
+    "monetary": 6207.67,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 219,
+    "monetary": 534.24,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 71,
+    "monetary": 601.56,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 52,
+    "monetary": 1992.11,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 115,
+    "monetary": 543.05,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 34,
+    "monetary": 1524.46,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 98,
+    "monetary": 207.36,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 91,
+    "monetary": 1255.0,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 92,
+    "monetary": 877.44,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 194,
+    "monetary": 1503.5,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 116,
+    "monetary": 508.46,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 189,
+    "monetary": 9861.38,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 45,
+    "monetary": 422.58,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 43,
+    "monetary": 778.0,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 185,
+    "monetary": 331.0,
+    "frequency": 3,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 176,
+    "monetary": 810.6,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 49,
+    "monetary": 409.7,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 181,
+    "monetary": 39619.5,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 6,
+    "monetary": 204.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 29,
+    "monetary": 1873.2,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 82,
+    "monetary": 1708.24,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 218,
+    "monetary": 611.88,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 218,
+    "monetary": 179.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 136,
+    "monetary": 2007.4,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 8,
+    "monetary": 1056.94,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 207,
+    "monetary": 1028.56,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 58,
+    "monetary": 1268.7,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 150,
+    "monetary": 1014.9,
+    "frequency": 4,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 200,
+    "monetary": 326.4,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 123,
+    "monetary": 260.25,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 123,
+    "monetary": 175.2,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 54,
+    "monetary": 1271.57,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 365,
+    "monetary": 590.0,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 31,
+    "monetary": 777.6,
+    "frequency": 1,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 240,
+    "monetary": 1021.61,
+    "frequency": 5,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 63,
+    "monetary": 712.88,
+    "frequency": 2,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 329,
+    "monetary": 635.1,
+    "frequency": 6,
+    "segment": "High-Value Growers"
+  },
+  {
+    "recency": 10,
+    "monetary": 485.88,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 43,
+    "monetary": 1524.07,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 94,
+    "monetary": 686.63,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 23,
+    "monetary": 625.42,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 50,
+    "monetary": 559.97,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 4,
+    "monetary": 2463.17,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 39,
+    "monetary": 990.84,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 25,
+    "monetary": 1201.51,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 2,
+    "monetary": 3085.49,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 11,
+    "monetary": 748.94,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 49,
+    "monetary": 1425.67,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 113,
+    "monetary": 1463.23,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 185,
+    "monetary": 701.33,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 8,
+    "monetary": 979.72,
+    "frequency": 7,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 3,
+    "monetary": 769.61,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 12,
+    "monetary": 1352.04,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 25,
+    "monetary": 1336.43,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 7,
+    "monetary": 1898.52,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 63,
+    "monetary": 1201.96,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 18,
+    "monetary": 681.19,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 199,
+    "monetary": 1396.99,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 75,
+    "monetary": 884.14,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 7,
+    "monetary": 1271.06,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 69,
+    "monetary": 1118.99,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 9,
+    "monetary": 1472.34,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 84,
+    "monetary": 1612.13,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 51,
+    "monetary": 1537.95,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 10,
+    "monetary": 450.84,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 65,
+    "monetary": 680.28,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 9,
+    "monetary": 2279.49,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 20,
+    "monetary": 2456.98,
+    "frequency": 7,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 15,
+    "monetary": 734.57,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 4,
+    "monetary": 610.52,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 30,
+    "monetary": 2114.33,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 33,
+    "monetary": 1595.96,
+    "frequency": 7,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 53,
+    "monetary": 1786.79,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 135,
+    "monetary": 1269.84,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 19,
+    "monetary": 1740.6,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 8,
+    "monetary": 1004.72,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 21,
+    "monetary": 535.97,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 46,
+    "monetary": 1141.5,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 116,
+    "monetary": 588.13,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 71,
+    "monetary": 1796.48,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 12,
+    "monetary": 908.86,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 2,
+    "monetary": 1736.4,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 74,
+    "monetary": 611.09,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 141,
+    "monetary": 1291.75,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 6,
+    "monetary": 1456.79,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 9,
+    "monetary": 1328.55,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 112,
+    "monetary": 945.96,
+    "frequency": 7,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 84,
+    "monetary": 544.51,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 24,
+    "monetary": 867.38,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 44,
+    "monetary": 615.99,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 59,
+    "monetary": 2109.07,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 157,
+    "monetary": 425.14,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 218,
+    "monetary": 879.06,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 7,
+    "monetary": 711.86,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 156,
+    "monetary": 734.13,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 35,
+    "monetary": 2022.98,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 4,
+    "monetary": 440.2,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 127,
+    "monetary": 982.42,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 5,
+    "monetary": 986.96,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 70,
+    "monetary": 947.4,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 115,
+    "monetary": 581.83,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 81,
+    "monetary": 348.71,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 3,
+    "monetary": 1164.55,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 43,
+    "monetary": 1604.44,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 35,
+    "monetary": 2358.59,
+    "frequency": 9,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 168,
+    "monetary": 1020.06,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 22,
+    "monetary": 840.21,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 56,
+    "monetary": 765.86,
+    "frequency": 8,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 16,
+    "monetary": 841.52,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 15,
+    "monetary": 231.86,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 10,
+    "monetary": 1006.8,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 44,
+    "monetary": 623.93,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 10,
+    "monetary": 1152.06,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 100,
+    "monetary": 1343.34,
+    "frequency": 9,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 14,
+    "monetary": 1339.41,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 35,
+    "monetary": 2169.86,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 22,
+    "monetary": 981.51,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 35,
+    "monetary": 658.64,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 60,
+    "monetary": 1482.06,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 43,
+    "monetary": 954.09,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 175,
+    "monetary": 1677.48,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 9,
+    "monetary": 1212.05,
+    "frequency": 8,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 126,
+    "monetary": 730.86,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 122,
+    "monetary": 709.71,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 80,
+    "monetary": 810.57,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 13,
+    "monetary": 1641.79,
+    "frequency": 7,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 39,
+    "monetary": 1539.69,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 144,
+    "monetary": 1631.15,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 44,
+    "monetary": 748.5,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 89,
+    "monetary": 1641.2,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 8,
+    "monetary": 1411.21,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 91,
+    "monetary": 711.41,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 21,
+    "monetary": 287.59,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 37,
+    "monetary": 389.27,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 92,
+    "monetary": 2083.42,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 169,
+    "monetary": 668.61,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 7,
+    "monetary": 772.84,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 56,
+    "monetary": 1178.56,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 0,
+    "monetary": 961.49,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 22,
+    "monetary": 732.07,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 103,
+    "monetary": 618.09,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 8,
+    "monetary": 1624.05,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 8,
+    "monetary": 538.59,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 1,
+    "monetary": 2291.19,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 9,
+    "monetary": 1095.42,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 13,
+    "monetary": 688.6,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 49,
+    "monetary": 816.88,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 35,
+    "monetary": 841.08,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 11,
+    "monetary": 461.19,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 21,
+    "monetary": 780.43,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 8,
+    "monetary": 1922.28,
+    "frequency": 8,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 60,
+    "monetary": 3312.25,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 23,
+    "monetary": 1174.58,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 9,
+    "monetary": 869.46,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 73,
+    "monetary": 861.89,
+    "frequency": 7,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 40,
+    "monetary": 1097.48,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 108,
+    "monetary": 2362.96,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 9,
+    "monetary": 1640.22,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 87,
+    "monetary": 2005.63,
+    "frequency": 7,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 49,
+    "monetary": 1774.03,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 1,
+    "monetary": 1124.01,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 31,
+    "monetary": 1266.97,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 31,
+    "monetary": 1735.18,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 49,
+    "monetary": 1412.06,
+    "frequency": 9,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 19,
+    "monetary": 525.69,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 196,
+    "monetary": 1540.65,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 11,
+    "monetary": 1065.88,
+    "frequency": 9,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 4,
+    "monetary": 2533.42,
+    "frequency": 7,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 10,
+    "monetary": 2067.13,
+    "frequency": 7,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 94,
+    "monetary": 1140.21,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 91,
+    "monetary": 975.23,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 184,
+    "monetary": 848.48,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 15,
+    "monetary": 1284.08,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 19,
+    "monetary": 1298.66,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 0,
+    "monetary": 967.22,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 33,
+    "monetary": 781.91,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 8,
+    "monetary": 1417.63,
+    "frequency": 7,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 106,
+    "monetary": 428.18,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 3,
+    "monetary": 1520.12,
+    "frequency": 8,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 193,
+    "monetary": 865.6,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 11,
+    "monetary": 849.06,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 177,
+    "monetary": 711.79,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 45,
+    "monetary": 1042.19,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 8,
+    "monetary": 1448.72,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 32,
+    "monetary": 980.31,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 24,
+    "monetary": 826.96,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 70,
+    "monetary": 1519.42,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 56,
+    "monetary": 1295.3,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 114,
+    "monetary": 653.38,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 30,
+    "monetary": 1051.95,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 30,
+    "monetary": 639.02,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 35,
+    "monetary": 1740.48,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 45,
+    "monetary": 1312.14,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 28,
+    "monetary": 1032.58,
+    "frequency": 7,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 38,
+    "monetary": 562.59,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 37,
+    "monetary": 1441.53,
+    "frequency": 8,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 64,
+    "monetary": 377.52,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 13,
+    "monetary": 2906.85,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 2,
+    "monetary": 305.71,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 0,
+    "monetary": 1260.86,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 15,
+    "monetary": 915.3,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 70,
+    "monetary": 422.13,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 109,
+    "monetary": 383.34,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 50,
+    "monetary": 2601.55,
+    "frequency": 2,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 72,
+    "monetary": 684.42,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 31,
+    "monetary": 922.77,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 20,
+    "monetary": 1336.1,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 9,
+    "monetary": 1612.79,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 25,
+    "monetary": 1330.45,
+    "frequency": 9,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 39,
+    "monetary": 1353.41,
+    "frequency": 5,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 14,
+    "monetary": 546.4,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 2,
+    "monetary": 2479.16,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 24,
+    "monetary": 834.57,
+    "frequency": 4,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 73,
+    "monetary": 572.45,
+    "frequency": 3,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 35,
+    "monetary": 3560.08,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 51,
+    "monetary": 1058.67,
+    "frequency": 9,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 42,
+    "monetary": 2707.33,
+    "frequency": 6,
+    "segment": "Loyal Regulars"
+  },
+  {
+    "recency": 70,
+    "monetary": 216.85,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 30,
+    "monetary": 494.73,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 11,
+    "monetary": 302.1,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 68,
+    "monetary": 270.8,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 16,
+    "monetary": 642.8,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 77,
+    "monetary": 773.03,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 59,
+    "monetary": 81.44,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 41,
+    "monetary": 347.3,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 77,
+    "monetary": 432.2,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 36,
+    "monetary": 172.37,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 128,
+    "monetary": 118.67,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 94,
+    "monetary": 151.74,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 64,
+    "monetary": 202.27,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 34,
+    "monetary": 71.66,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 34,
+    "monetary": 235.68,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 100,
+    "monetary": 211.89,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 64,
+    "monetary": 91.85,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 20,
+    "monetary": 163.24,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 1,
+    "monetary": 196.89,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 13,
+    "monetary": 599.48,
+    "frequency": 4,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 91,
+    "monetary": 193.64,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 171,
+    "monetary": 1038.46,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 7,
+    "monetary": 144.0,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 14,
+    "monetary": 183.02,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 28,
+    "monetary": 110.38,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 50,
+    "monetary": 157.7,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 51,
+    "monetary": 110.8,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 108,
+    "monetary": 608.79,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 38,
+    "monetary": 162.8,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 148,
+    "monetary": 653.3,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 29,
+    "monetary": 315.72,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 4,
+    "monetary": 547.07,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 21,
+    "monetary": 151.37,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 116,
+    "monetary": 348.91,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 91,
+    "monetary": 296.64,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 76,
+    "monetary": 114.18,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 70,
+    "monetary": 243.56,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 81,
+    "monetary": 345.0,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 10,
+    "monetary": 245.1,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 28,
+    "monetary": 646.68,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 119,
+    "monetary": 318.65,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 23,
+    "monetary": 213.78,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 15,
+    "monetary": 328.58,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 3,
+    "monetary": 477.3,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 1,
+    "monetary": 0.0,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 60,
+    "monetary": 112.08,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 106,
+    "monetary": 240.0,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 51,
+    "monetary": 704.25,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 39,
+    "monetary": 675.51,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 64,
+    "monetary": 332.3,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 3,
+    "monetary": 342.45,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 18,
+    "monetary": 327.3,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 30,
+    "monetary": 609.19,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 21,
+    "monetary": 631.35,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 39,
+    "monetary": 316.88,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 95,
+    "monetary": 318.76,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 76,
+    "monetary": 363.65,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 44,
+    "monetary": 117.47,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 23,
+    "monetary": 160.19,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 112,
+    "monetary": 612.06,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 34,
+    "monetary": 367.69,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 51,
+    "monetary": 1193.32,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 88,
+    "monetary": 103.3,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 84,
+    "monetary": 648.83,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 25,
+    "monetary": 315.65,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 3,
+    "monetary": 178.96,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 32,
+    "monetary": 152.2,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 109,
+    "monetary": 52.0,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 7,
+    "monetary": 497.56,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 161,
+    "monetary": 203.86,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 31,
+    "monetary": 383.03,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 20,
+    "monetary": 314.11,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 106,
+    "monetary": 413.2,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 3,
+    "monetary": 226.47,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 2,
+    "monetary": 178.72,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 49,
+    "monetary": 272.04,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 15,
+    "monetary": 258.4,
+    "frequency": 4,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 106,
+    "monetary": 156.51,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 52,
+    "monetary": 352.7,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 25,
+    "monetary": 261.9,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 137,
+    "monetary": 147.12,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 18,
+    "monetary": 154.35,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 169,
+    "monetary": 414.87,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 64,
+    "monetary": 508.58,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 161,
+    "monetary": 1145.84,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 3,
+    "monetary": 303.75,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 63,
+    "monetary": 602.97,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 27,
+    "monetary": 191.04,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 29,
+    "monetary": 20.8,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 84,
+    "monetary": 586.79,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 58,
+    "monetary": 246.0,
+    "frequency": 4,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 73,
+    "monetary": 1033.34,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 63,
+    "monetary": 172.82,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 56,
+    "monetary": 300.85,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 24,
+    "monetary": 346.12,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 53,
+    "monetary": 362.06,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 24,
+    "monetary": 647.56,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 18,
+    "monetary": 430.48,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 87,
+    "monetary": 96.6,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 112,
+    "monetary": 288.18,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 49,
+    "monetary": 363.34,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 25,
+    "monetary": 106.56,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 126,
+    "monetary": 205.1,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 128,
+    "monetary": 496.38,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 49,
+    "monetary": 230.5,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 133,
+    "monetary": 520.8,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 32,
+    "monetary": 35.4,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 45,
+    "monetary": 415.82,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 105,
+    "monetary": 149.05,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 60,
+    "monetary": 215.83,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 21,
+    "monetary": 149.29,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 24,
+    "monetary": 288.91,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 77,
+    "monetary": 777.2,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 132,
+    "monetary": 397.29,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 147,
+    "monetary": 554.38,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 38,
+    "monetary": 656.25,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 21,
+    "monetary": 177.31,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 3,
+    "monetary": 613.95,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 30,
+    "monetary": 547.06,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 165,
+    "monetary": 228.2,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 35,
+    "monetary": 343.45,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 24,
+    "monetary": 655.58,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 18,
+    "monetary": 347.08,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 92,
+    "monetary": 91.32,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 15,
+    "monetary": 220.62,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 132,
+    "monetary": 241.62,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 115,
+    "monetary": 905.5,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 21,
+    "monetary": 852.15,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 65,
+    "monetary": 297.07,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 74,
+    "monetary": 420.5,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 62,
+    "monetary": 395.8,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 62,
+    "monetary": 467.66,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 79,
+    "monetary": 222.62,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 43,
+    "monetary": 267.13,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 10,
+    "monetary": 757.37,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 10,
+    "monetary": 114.6,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 71,
+    "monetary": 158.04,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 52,
+    "monetary": 109.36,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 168,
+    "monetary": 363.4,
+    "frequency": 5,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 14,
+    "monetary": 271.2,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 2,
+    "monetary": 168.63,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 133,
+    "monetary": 425.32,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 86,
+    "monetary": 112.08,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 116,
+    "monetary": 213.85,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 157,
+    "monetary": 554.22,
+    "frequency": 4,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 1,
+    "monetary": 296.58,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 9,
+    "monetary": 137.0,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 48,
+    "monetary": 657.23,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 19,
+    "monetary": 636.24,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 17,
+    "monetary": 216.9,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 31,
+    "monetary": 180.48,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 70,
+    "monetary": 238.25,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 44,
+    "monetary": 326.24,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 81,
+    "monetary": 115.46,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 4,
+    "monetary": 247.15,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 42,
+    "monetary": 193.44,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 74,
+    "monetary": 318.0,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 28,
+    "monetary": 899.51,
+    "frequency": 4,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 157,
+    "monetary": 272.38,
+    "frequency": 3,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 148,
+    "monetary": 309.4,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 22,
+    "monetary": 484.82,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 158,
+    "monetary": 383.85,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 3,
+    "monetary": 220.1,
+    "frequency": 5,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 36,
+    "monetary": 778.5,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 32,
+    "monetary": 355.73,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 32,
+    "monetary": 397.99,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 133,
+    "monetary": 529.73,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 155,
+    "monetary": 361.11,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 160,
+    "monetary": 225.26,
+    "frequency": 4,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 140,
+    "monetary": 559.7,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 92,
+    "monetary": 416.9,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 46,
+    "monetary": 147.29,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 112,
+    "monetary": 371.56,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 4,
+    "monetary": 126.12,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 153,
+    "monetary": 70.02,
+    "frequency": 6,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 58,
+    "monetary": 73.2,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 64,
+    "monetary": 90.6,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 106,
+    "monetary": 120.0,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 8,
+    "monetary": 366.23,
+    "frequency": 1,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 129,
+    "monetary": 343.82,
+    "frequency": 2,
+    "segment": "Occasional Buyers"
+  },
+  {
+    "recency": 7,
+    "monetary": 1990.12,
+    "frequency": 6,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 66,
+    "monetary": 3313.79,
+    "frequency": 7,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 63,
+    "monetary": 1890.99,
+    "frequency": 13,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 6,
+    "monetary": 9537.92,
+    "frequency": 22,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 7792.51,
+    "frequency": 27,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 17,
+    "monetary": 2358.84,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 2949.57,
+    "frequency": 6,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 24,
+    "monetary": 1812.62,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 1,
+    "monetary": 279489.02,
+    "frequency": 76,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 51,
+    "monetary": 2350.0,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 21,
+    "monetary": 2119.41,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 21,
+    "monetary": 7904.28,
+    "frequency": 28,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 1860.86,
+    "frequency": 14,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 6989.63,
+    "frequency": 7,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 28,
+    "monetary": 2210.26,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 10,
+    "monetary": 2275.58,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 14,
+    "monetary": 1632.43,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 4379.65,
+    "frequency": 20,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 1,
+    "monetary": 16201.37,
+    "frequency": 43,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 162,
+    "monetary": 5664.57,
+    "frequency": 14,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 1869.5,
+    "frequency": 5,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 45,
+    "monetary": 7912.79,
+    "frequency": 15,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 11,
+    "monetary": 4531.34,
+    "frequency": 22,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 4025.6,
+    "frequency": 25,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 19,
+    "monetary": 2310.18,
+    "frequency": 14,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 2939.64,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 44,
+    "monetary": 5203.51,
+    "frequency": 5,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 6,
+    "monetary": 3743.18,
+    "frequency": 6,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 25,
+    "monetary": 3315.71,
+    "frequency": 15,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 50415.49,
+    "frequency": 14,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 6083.04,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 2230.3,
+    "frequency": 19,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 10,
+    "monetary": 3717.67,
+    "frequency": 19,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 3713.14,
+    "frequency": 27,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 11,
+    "monetary": 3190.55,
+    "frequency": 7,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 22,
+    "monetary": 5411.87,
+    "frequency": 20,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 2385.48,
+    "frequency": 14,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 5,
+    "monetary": 3014.22,
+    "frequency": 15,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 5040.0,
+    "frequency": 17,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 29,
+    "monetary": 5820.16,
+    "frequency": 11,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 25,
+    "monetary": 2248.63,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 51,
+    "monetary": 9120.39,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 12650.08,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 8491.75,
+    "frequency": 30,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 71,
+    "monetary": 3661.07,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 15,
+    "monetary": 1853.13,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 37,
+    "monetary": 2599.19,
+    "frequency": 14,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 17,
+    "monetary": 4410.14,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 21024.01,
+    "frequency": 11,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 30,
+    "monetary": 4122.28,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 19638.59,
+    "frequency": 52,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 16389.74,
+    "frequency": 50,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 4,
+    "monetary": 7066.31,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 1849.11,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 29,
+    "monetary": 2616.32,
+    "frequency": 16,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 22,
+    "monetary": 5505.79,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 16,
+    "monetary": 4711.21,
+    "frequency": 16,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 62690.54,
+    "frequency": 60,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 3701.44,
+    "frequency": 15,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 14,
+    "monetary": 4388.06,
+    "frequency": 14,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 4485.72,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 31,
+    "monetary": 6657.36,
+    "frequency": 15,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 7,
+    "monetary": 26626.8,
+    "frequency": 22,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 15,
+    "monetary": 4205.25,
+    "frequency": 19,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 20,
+    "monetary": 1296.44,
+    "frequency": 39,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 2085.08,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 2874.72,
+    "frequency": 5,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 2986.15,
+    "frequency": 6,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 7436.93,
+    "frequency": 35,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 6,
+    "monetary": 6729.29,
+    "frequency": 11,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 15,
+    "monetary": 6160.54,
+    "frequency": 35,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 5154.58,
+    "frequency": 13,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 73,
+    "monetary": 5976.79,
+    "frequency": 6,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 1468.12,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 1,
+    "monetary": 21086.3,
+    "frequency": 18,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 2058.09,
+    "frequency": 18,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 21,
+    "monetary": 8568.24,
+    "frequency": 21,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 88125.38,
+    "frequency": 46,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 10510.0,
+    "frequency": 40,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 2660.1,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 2702.22,
+    "frequency": 11,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 11,
+    "monetary": 1777.92,
+    "frequency": 7,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 14,
+    "monetary": 7490.17,
+    "frequency": 25,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 4582.22,
+    "frequency": 13,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 9803.96,
+    "frequency": 39,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 7,
+    "monetary": 2657.45,
+    "frequency": 7,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 7,
+    "monetary": 2283.63,
+    "frequency": 7,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 2809.02,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 1,
+    "monetary": 1745.57,
+    "frequency": 13,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 27,
+    "monetary": 2609.1,
+    "frequency": 7,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 7,
+    "monetary": 187322.17,
+    "frequency": 55,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 15,
+    "monetary": 6393.52,
+    "frequency": 16,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 28,
+    "monetary": 2581.04,
+    "frequency": 11,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 20098.1,
+    "frequency": 41,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 10,
+    "monetary": 3947.7,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 46,
+    "monetary": 2940.53,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 5,
+    "monetary": 5140.66,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 31,
+    "monetary": 2043.93,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 3865.26,
+    "frequency": 15,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 12,
+    "monetary": 2088.94,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 22,
+    "monetary": 3991.94,
+    "frequency": 13,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 65,
+    "monetary": 3539.53,
+    "frequency": 16,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 11,
+    "monetary": 2786.05,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 39,
+    "monetary": 2152.8,
+    "frequency": 15,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 22,
+    "monetary": 4241.63,
+    "frequency": 17,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 10360.04,
+    "frequency": 27,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 66,
+    "monetary": 5934.25,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 28658.88,
+    "frequency": 41,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 8025.02,
+    "frequency": 29,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 7187.34,
+    "frequency": 18,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 1,
+    "monetary": 3873.3,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 16,
+    "monetary": 5159.06,
+    "frequency": 7,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 32,
+    "monetary": 2842.57,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 11,
+    "monetary": 5613.43,
+    "frequency": 22,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 4,
+    "monetary": 3020.65,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 51,
+    "monetary": 2952.34,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 11,
+    "monetary": 2907.45,
+    "frequency": 13,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 6193.43,
+    "frequency": 43,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 7,
+    "monetary": 2423.07,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 38,
+    "monetary": 3617.57,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 6,
+    "monetary": 1460.37,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 29,
+    "monetary": 2760.56,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 31,
+    "monetary": 3409.66,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 6,
+    "monetary": 2507.56,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 1,
+    "monetary": 18573.68,
+    "frequency": 34,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 1535.77,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 29,
+    "monetary": 4717.3,
+    "frequency": 16,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 63,
+    "monetary": 2755.56,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 1781.12,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 37,
+    "monetary": 3320.22,
+    "frequency": 11,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 5684.61,
+    "frequency": 28,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 5356.86,
+    "frequency": 17,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 41,
+    "monetary": 17588.26,
+    "frequency": 13,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 2448.8,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 65892.08,
+    "frequency": 31,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 22,
+    "monetary": 5574.36,
+    "frequency": 11,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 8062.46,
+    "frequency": 29,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 3848.55,
+    "frequency": 19,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 4,
+    "monetary": 3002.51,
+    "frequency": 14,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 12432.28,
+    "frequency": 43,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 37,
+    "monetary": 6748.4,
+    "frequency": 7,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 16,
+    "monetary": 3982.72,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 4,
+    "monetary": 6135.38,
+    "frequency": 20,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 69,
+    "monetary": 2116.19,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 11,
+    "monetary": 6488.3,
+    "frequency": 26,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 10,
+    "monetary": 9165.04,
+    "frequency": 27,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 3719.1,
+    "frequency": 17,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 40,
+    "monetary": 3487.59,
+    "frequency": 15,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 113214.59,
+    "frequency": 66,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 1,
+    "monetary": 18705.52,
+    "frequency": 49,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 9,
+    "monetary": 3093.86,
+    "frequency": 6,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 7,
+    "monetary": 4819.33,
+    "frequency": 14,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 2663.66,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 7,
+    "monetary": 2319.68,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 7,
+    "monetary": 4867.99,
+    "frequency": 6,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 6,
+    "monetary": 14634.64,
+    "frequency": 23,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 1,
+    "monetary": 3774.1,
+    "frequency": 14,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 22,
+    "monetary": 4206.27,
+    "frequency": 13,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 1,
+    "monetary": 16945.71,
+    "frequency": 52,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 2070.97,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 1,
+    "monetary": 3188.84,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 77,
+    "monetary": 2730.09,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 2969.12,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 0,
+    "monetary": 11633.35,
+    "frequency": 128,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 2557.9,
+    "frequency": 16,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 6680.81,
+    "frequency": 12,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 17,
+    "monetary": 3650.87,
+    "frequency": 10,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 10,
+    "monetary": 8600.73,
+    "frequency": 21,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 52,
+    "monetary": 3295.76,
+    "frequency": 6,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 17,
+    "monetary": 2186.2,
+    "frequency": 7,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 22,
+    "monetary": 4494.77,
+    "frequency": 17,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 7,
+    "monetary": 1854.06,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 1377.92,
+    "frequency": 8,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 8117.42,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 2,
+    "monetary": 2056.28,
+    "frequency": 9,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 1,
+    "monetary": 5613.08,
+    "frequency": 43,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 16,
+    "monetary": 5772.49,
+    "frequency": 11,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 3,
+    "monetary": 3908.08,
+    "frequency": 6,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 5150.27,
+    "frequency": 18,
+    "segment": "VIP Champions"
+  },
+  {
+    "recency": 8,
+    "monetary": 3741.98,
+    "frequency": 18,
+    "segment": "VIP Champions"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "auc": 0.721960458240946,
+  "pr_auc": 0.6807690990098856,
+  "precision_at_200": 0.67,
+  "churn_rate": 0.4877913429522753,
+  "n_customers": 3604,
+  "best_model": "logistic_regression",
+  "top_shap_features": [
+    {
+      "feature": "distinct_products",
+      "mean_abs_shap": 0.40724033049631614
+    },
+    {
+      "feature": "frequency",
+      "mean_abs_shap": 0.32461814386017
+    },
+    {
+      "feature": "tenure_days",
+      "mean_abs_shap": 0.24864240260545317
+    },
+    {
+      "feature": "monetary",
+      "mean_abs_shap": 0.10723890312407407
+    },
+    {
+      "feature": "avg_gap_days",
+      "mean_abs_shap": 0.10239663851492242
+    },
+    {
+      "feature": "aov",
+      "mean_abs_shap": 0.05670792175629113
+    },
+    {
+      "feature": "spend_trend_30d",
+      "mean_abs_shap": 0.02252056863720943
+    },
+    {
+      "feature": "std_gap_days",
+      "mean_abs_shap": 0.012803483741240025
+    },
+    {
+      "feature": "total_quantity",
+      "mean_abs_shap": 0.010140361806980115
+    }
+  ],
+  "all_models_compared": {
+    "logistic_regression": {
+      "auc": 0.721960458240946,
+      "pr_auc": 0.6807690990098856,
+      "precision_at_200": 0.67
+    },
+    "random_forest": {
+      "auc": 0.7241315594974133,
+      "pr_auc": 0.6618600122548763,
+      "precision_at_200": 0.685
+    },
+    "xgboost": {
+      "auc": 0.7207132298595713,
+      "pr_auc": 0.6659019488057738,
+      "precision_at_200": 0.67
+    }
+  },
+  "observation_window": {
+    "start": "2010-12-01",
+    "end": "2011-09-30"
+  },
+  "outcome_window": {
+    "start": "2011-09-30",
+    "end": "2011-12-09"
+  },
+  "leakage_self_check": "passed \u2014 no recency-to-cutoff feature in feature set"
+}

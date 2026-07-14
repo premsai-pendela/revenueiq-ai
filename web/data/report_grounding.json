@@ -1,0 +1,243 @@
+{
+  "checked": 33,
+  "grounded": 33,
+  "assumptions": 0,
+  "ungrounded": 0,
+  "grounding_score": 1.0,
+  "scope": "verifies all currency, percentage, and count>=100 figures; years and small integers treated as structural",
+  "numbers": [
+    {
+      "raw": "$9.87M",
+      "value": 9870000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "total_revenue"
+    },
+    {
+      "raw": "$18.47",
+      "value": 18.47,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "avg_order_line"
+    },
+    {
+      "raw": "$320K",
+      "value": 320000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "high_risk_revenue"
+    },
+    {
+      "raw": "$5.54M",
+      "value": 5540000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "seg_vip_champions_rev"
+    },
+    {
+      "raw": "$248K",
+      "value": 248000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "seg_at_risk_dormant_rev"
+    },
+    {
+      "raw": "$2.09M",
+      "value": 2089999.9999999998,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "fc_next30"
+    },
+    {
+      "raw": "$994K",
+      "value": 994000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "fc_low"
+    },
+    {
+      "raw": "$3.18M",
+      "value": 3180000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "fc_high"
+    },
+    {
+      "raw": "$1.71M",
+      "value": 1710000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "seg_loyal_regulars_rev"
+    },
+    {
+      "raw": "$421K",
+      "value": 421000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "seg_high_value_growers_rev"
+    },
+    {
+      "raw": "$414K",
+      "value": 414000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "seg_occasional_buyers_rev"
+    },
+    {
+      "raw": "$320K",
+      "value": 320000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "high_risk_revenue"
+    },
+    {
+      "raw": "$5.54M",
+      "value": 5540000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "seg_vip_champions_rev"
+    },
+    {
+      "raw": "$248K",
+      "value": 248000.0,
+      "kind": "currency",
+      "verdict": "grounded",
+      "source_fact": "seg_at_risk_dormant_rev"
+    },
+    {
+      "raw": "48.8%",
+      "value": 48.8,
+      "kind": "percent",
+      "verdict": "grounded",
+      "source_fact": "churn_rate"
+    },
+    {
+      "raw": "66.5%",
+      "value": 66.5,
+      "kind": "percent",
+      "verdict": "grounded",
+      "source_fact": "seg_vip_champions_revpct"
+    },
+    {
+      "raw": "3.0%",
+      "value": 3.0,
+      "kind": "percent",
+      "verdict": "grounded",
+      "source_fact": "seg_at_risk_dormant_revpct"
+    },
+    {
+      "raw": "20.5%",
+      "value": 20.5,
+      "kind": "percent",
+      "verdict": "grounded",
+      "source_fact": "seg_loyal_regulars_revpct"
+    },
+    {
+      "raw": "5.0%",
+      "value": 5.0,
+      "kind": "percent",
+      "verdict": "grounded",
+      "source_fact": "seg_high_value_growers_revpct"
+    },
+    {
+      "raw": "5.0%",
+      "value": 5.0,
+      "kind": "percent",
+      "verdict": "grounded",
+      "source_fact": "seg_high_value_growers_revpct"
+    },
+    {
+      "raw": "48.8%",
+      "value": 48.8,
+      "kind": "percent",
+      "verdict": "grounded",
+      "source_fact": "churn_rate"
+    },
+    {
+      "raw": "66.5%",
+      "value": 66.5,
+      "kind": "percent",
+      "verdict": "grounded",
+      "source_fact": "seg_vip_champions_revpct"
+    },
+    {
+      "raw": "4,372",
+      "value": 4372.0,
+      "kind": "count",
+      "verdict": "grounded",
+      "source_fact": "total_customers"
+    },
+    {
+      "raw": "23,786",
+      "value": 23786.0,
+      "kind": "count",
+      "verdict": "grounded",
+      "source_fact": "total_orders"
+    },
+    {
+      "raw": "707",
+      "value": 707.0,
+      "kind": "count",
+      "verdict": "grounded",
+      "source_fact": "high_risk_count"
+    },
+    {
+      "raw": "812",
+      "value": 812.0,
+      "kind": "count",
+      "verdict": "grounded",
+      "source_fact": "seg_at_risk_dormant_count"
+    },
+    {
+      "raw": "0.265",
+      "value": 0.265,
+      "kind": "ratio",
+      "verdict": "grounded",
+      "source_fact": "seg_silhouette"
+    },
+    {
+      "raw": "1,391",
+      "value": 1391.0,
+      "kind": "count",
+      "verdict": "grounded",
+      "source_fact": "seg_loyal_regulars_count"
+    },
+    {
+      "raw": "272",
+      "value": 272.0,
+      "kind": "count",
+      "verdict": "grounded",
+      "source_fact": "seg_high_value_growers_count"
+    },
+    {
+      "raw": "1,145",
+      "value": 1145.0,
+      "kind": "count",
+      "verdict": "grounded",
+      "source_fact": "seg_occasional_buyers_count"
+    },
+    {
+      "raw": "707",
+      "value": 707.0,
+      "kind": "count",
+      "verdict": "grounded",
+      "source_fact": "high_risk_count"
+    },
+    {
+      "raw": "812",
+      "value": 812.0,
+      "kind": "count",
+      "verdict": "grounded",
+      "source_fact": "seg_at_risk_dormant_count"
+    },
+    {
+      "raw": "0.265",
+      "value": 0.265,
+      "kind": "ratio",
+      "verdict": "grounded",
+      "source_fact": "seg_silhouette"
+    }
+  ],
+  "passes": 2,
+  "model": "llama-3.3-70b-versatile"
+}

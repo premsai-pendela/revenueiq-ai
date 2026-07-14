@@ -1,0 +1,125 @@
+{
+  "series": {
+    "n_days": 374,
+    "start": "2010-12-01",
+    "end": "2011-12-09",
+    "months_covered": 12.3,
+    "missing_calendar_days_filled_with_zero": 69,
+    "missing_days_by_weekday": {
+      "5": 53,
+      "0": 6,
+      "4": 4,
+      "6": 3,
+      "1": 1,
+      "2": 1,
+      "3": 1
+    }
+  },
+  "adf_test_on_levels": {
+    "adf_stat": -6.326365219861192,
+    "adf_pvalue": 2.979596518417797e-08,
+    "differences_applied": 1,
+    "stationary": true
+  },
+  "chosen_model": "statsforecast_autoarima",
+  "chosen_order": {
+    "order": [
+      1,
+      0,
+      1
+    ],
+    "seasonal_order": [
+      0,
+      1,
+      2,
+      7
+    ]
+  },
+  "backtest": {
+    "n_folds": 5,
+    "horizon_days": 14,
+    "fold_orders": [
+      {
+        "order": [
+          1,
+          0,
+          1
+        ],
+        "seasonal_order": [
+          1,
+          1,
+          2,
+          7
+        ]
+      },
+      {
+        "order": [
+          1,
+          0,
+          1
+        ],
+        "seasonal_order": [
+          1,
+          1,
+          2,
+          7
+        ]
+      },
+      {
+        "order": [
+          1,
+          0,
+          1
+        ],
+        "seasonal_order": [
+          1,
+          1,
+          2,
+          7
+        ]
+      },
+      {
+        "order": [
+          1,
+          0,
+          1
+        ],
+        "seasonal_order": [
+          1,
+          1,
+          1,
+          7
+        ]
+      },
+      {
+        "order": [
+          1,
+          0,
+          1
+        ],
+        "seasonal_order": [
+          0,
+          1,
+          2,
+          7
+        ]
+      }
+    ]
+  },
+  "mae": 14353.705308761284,
+  "rmse": 22327.819074765874,
+  "mape": 27.87676412151949,
+  "baseline_naive_mape": 40.99492659349281,
+  "baseline_mape": 32.22671751572353,
+  "beats_seasonal_naive": true,
+  "improvement_vs_baseline_pct": 13.5,
+  "next30_total": 2086166.71,
+  "interval_low": 993693.44,
+  "interval_high": 3178639.97,
+  "interval_level": 95,
+  "honest_caveats": [
+    "~13 months of history; yearly seasonality can be described, not learned (would need multiple years of data to validate a yearly cycle).",
+    "Missing calendar days are mostly Saturdays (store closed), zero-filled as true zero-revenue days, not imputed as unknown.",
+    "MAPE is undefined on days with true zero revenue (Saturdays); those days are excluded from the MAPE average (mae/rmse still include them)."
+  ]
+}
