@@ -29,13 +29,19 @@ A reproducible pipeline over the public **UCI Online Retail** dataset (534,117 t
 
 Interactive Next.js dashboard (two-tone theme, Recharts): headline finding → key findings → segments (bar / donut / value-vs-recency scatter) → churn (metrics + SHAP drivers) → forecast with confidence band → the grounded AI report with a live "figures verified" badge.
 
-[![RevenueIQ dashboard — overview](docs/screenshots/dashboard-hero.png)](https://revenueiq-ai.vercel.app)
+[![RevenueIQ — overview](docs/screenshots/01-overview.png)](https://revenueiq-ai.vercel.app)
 
-_Overview: headline finding, KPIs, and the key-findings cards._
+_Overview — the headline finding, KPIs, and key-findings cards._
 
-![RevenueIQ dashboard — full page](docs/screenshots/dashboard-full.png)
+![Customer segments](docs/screenshots/02-segments.png)
 
-_Full dashboard: segments (bar / donut / value-vs-recency scatter), churn with SHAP drivers, forecast with confidence band, and the grounding-verified AI report._
+_Segments — revenue by segment (bar + donut) and the value-vs-recency scatter that shows the churn drift in one picture._
+
+![Grounded AI report](docs/screenshots/03-ai-report.png)
+
+_The AI executive report — every figure verified against source data (grounding score 1.0)._
+
+**See it interactive → [revenueiq-ai.vercel.app](https://revenueiq-ai.vercel.app)**
 
 ---
 

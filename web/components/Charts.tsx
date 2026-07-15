@@ -40,7 +40,7 @@ export function SegmentChart({ segments }: { segments: Seg[] }) {
         <XAxis type="number" tick={AXIS} tickFormatter={(v) => usd(v, true)} axisLine={false} tickLine={false} />
         <YAxis type="category" dataKey="name" tick={AXIS} width={128} axisLine={false} tickLine={false} />
         <Tooltip cursor={{ fill: "rgba(15,163,163,0.06)" }} content={<SegTip />} />
-        <Bar dataKey="revenue" radius={[0, 6, 6, 0]} maxBarSize={30}>
+        <Bar dataKey="revenue" radius={[0, 6, 6, 0]} maxBarSize={30} isAnimationActive={false}>
           {data.map((_, i) => <Cell key={i} fill={SEG_COLORS[i % SEG_COLORS.length]} />)}
         </Bar>
       </BarChart>
@@ -67,7 +67,7 @@ export function MonthlyChart({ data }: { data: { month: string; revenue: number 
         <XAxis dataKey="month" tick={AXIS} tickFormatter={shortMonth} axisLine={false} tickLine={false} />
         <YAxis tick={AXIS} tickFormatter={(v) => usd(v, true)} axisLine={false} tickLine={false} width={52} />
         <Tooltip cursor={{ fill: "rgba(15,163,163,0.06)" }} content={<MonthTip />} />
-        <Bar dataKey="revenue" fill="#0fa3a3" radius={[5, 5, 0, 0]} maxBarSize={38} />
+        <Bar dataKey="revenue" fill="#0fa3a3" radius={[5, 5, 0, 0]} maxBarSize={38} isAnimationActive={false} />
       </BarChart>
     </ResponsiveContainer>
   );
@@ -103,9 +103,9 @@ export function ForecastChart({ series }: { series: any }) {
         <XAxis dataKey="date" tick={AXIS} tickFormatter={fmt} minTickGap={44} axisLine={false} tickLine={false} />
         <YAxis tick={AXIS} tickFormatter={(v) => usd(v, true)} axisLine={false} tickLine={false} width={52} />
         <Tooltip content={<FcTip />} />
-        <Area dataKey="band" stroke="none" fill="#0fa3a3" fillOpacity={0.12} connectNulls />
-        <Line dataKey="actual" stroke="#1a2233" strokeWidth={1.6} dot={false} connectNulls />
-        <Line dataKey="forecast" stroke="#0fa3a3" strokeWidth={2} strokeDasharray="5 4" dot={false} connectNulls />
+        <Area dataKey="band" stroke="none" fill="#0fa3a3" fillOpacity={0.12} connectNulls isAnimationActive={false} />
+        <Line dataKey="actual" stroke="#1a2233" strokeWidth={1.6} dot={false} connectNulls isAnimationActive={false} />
+        <Line dataKey="forecast" stroke="#0fa3a3" strokeWidth={2} strokeDasharray="5 4" dot={false} connectNulls isAnimationActive={false} />
       </ComposedChart>
     </ResponsiveContainer>
   );
@@ -133,7 +133,7 @@ export function ShapChart({ features }: { features: { feature: string; mean_abs_
         <XAxis type="number" tick={AXIS} axisLine={false} tickLine={false} />
         <YAxis type="category" dataKey="feature" tick={AXIS} width={112} axisLine={false} tickLine={false} />
         <Tooltip cursor={{ fill: "rgba(15,163,163,0.06)" }} content={<ShapTip />} />
-        <Bar dataKey="v" fill="#6b8fc9" radius={[0, 6, 6, 0]} maxBarSize={22} />
+        <Bar dataKey="v" fill="#6b8fc9" radius={[0, 6, 6, 0]} maxBarSize={22} isAnimationActive={false} />
       </BarChart>
     </ResponsiveContainer>
   );
@@ -146,7 +146,7 @@ export function SegmentDonut({ segments }: { segments: Seg[] }) {
     <ResponsiveContainer width="100%" height={260}>
       <PieChart>
         <Pie data={data} dataKey="revenue" nameKey="name" cx="50%" cy="50%"
-          innerRadius={58} outerRadius={92} paddingAngle={2} stroke="none">
+          innerRadius={58} outerRadius={92} paddingAngle={2} stroke="none" isAnimationActive={false}>
           {data.map((s) => <Cell key={s.name} fill={segColor(s.name)} />)}
         </Pie>
         <Tooltip content={<SegTip />} />
@@ -189,7 +189,7 @@ export function ClvScatter({ points }: { points: Pt[] }) {
         <ZAxis range={[26, 26]} />
         <Tooltip content={<ScatterTip />} cursor={{ strokeDasharray: "3 3" }} />
         {bySeg.map((s) => (
-          <Scatter key={s.seg} name={s.seg} data={s.data} fill={segColor(s.seg)} fillOpacity={0.55} />
+          <Scatter key={s.seg} name={s.seg} data={s.data} fill={segColor(s.seg)} fillOpacity={0.55} isAnimationActive={false} />
         ))}
         <Legend iconType="circle" wrapperStyle={{ fontSize: 12, paddingTop: 8 }} />
       </ScatterChart>
