@@ -1,0 +1,9 @@
+# dbt profile for the local DuckDB analytics database.
+# Run from the dbt/ directory with:  dbt run --profiles-dir .
+revenueiq:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../data/revenueiq.db"
+      threads: 4

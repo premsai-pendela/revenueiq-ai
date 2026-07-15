@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: stg_transactions
+    description: "Typed, net-of-returns transaction lines."
+    columns:
+      - name: invoice_no
+        description: "Order id."
+        tests: [not_null]
+      - name: total_price
+        description: "Line revenue (quantity * unit_price)."
+        tests: [not_null]
+      - name: quantity
+        tests: [not_null]

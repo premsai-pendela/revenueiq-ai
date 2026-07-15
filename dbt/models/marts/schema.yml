@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: revenue_by_month
+    description: "One row per calendar month of net revenue."
+    columns:
+      - name: month
+        description: "Month bucket."
+        tests: [not_null, unique]
+      - name: revenue
+        tests: [not_null]
+
+  - name: customer_segment_summary
+    description: "Revenue and behavior per customer segment."
+    columns:
+      - name: segment
+        description: "KMeans segment name."
+        tests: [not_null, unique]
+      - name: customers
+        tests: [not_null]
+      - name: revenue
+        tests: [not_null]
